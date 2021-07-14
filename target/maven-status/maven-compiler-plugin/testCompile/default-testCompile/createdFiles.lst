@@ -1,0 +1,5 @@
+br\com\projeto\personapi\mapper\PersonMapperTest.class
+br\com\projeto\personapi\PersonapiApplicationTests.class
+br\com\projeto\personapi\services\PersonServiceTest.class
+br\com\projeto\personapi\utils\PersonUtils.class
+br\com\projeto\personapi\utils\PhoneUtils.class

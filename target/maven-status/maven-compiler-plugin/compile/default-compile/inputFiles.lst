@@ -1,0 +1,13 @@
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\service\PersonService.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\dto\mapper\PersonMapper.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\controller\PersonController.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\PersonapiApplication.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\entity\Person.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\exception\PersonNotFoundException.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\entity\PhoneSemLombok.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\entity\Phone.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\dto\request\PersonDTO.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\repository\PersonRepository.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\enums\PhoneType.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\dto\request\PhoneDTO.java
+G:\Cursos\Projetos\sistema gerenciametno de pessoas em api rest e spring\personapi\personapi\src\main\java\br\com\projeto\personapi\dto\response\MessageResponseDTO.java
